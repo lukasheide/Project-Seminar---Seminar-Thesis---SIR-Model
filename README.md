@@ -1,5 +1,5 @@
 # Project-Seminar - Infectious Disease Modeling - SEIR-Model
-Short Case Study - Differential Equation Modeling in Infectious Disease Forecasting in the context of a project seminar
+This repository corresponds to a short case study about Differential Equation Modeling in Infectious Disease Forecasting in the context of a project seminar in the WWU Information Systems Master program.
 
 The case study consists of a basic part and one extension. A SEIR differential equation model is developed to fit the described cases. Differential equation models divide the individuals of a population into different compartments and describe the transitions into and out of these using differential equations. The SEIR model consists of four compartments:
 <ol>
